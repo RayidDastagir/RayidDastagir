@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rayid</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **Personal-Assistant(**
+- 🔭 I’m currently working on **Personal-Assistant**
 
 - 🌱 I’m currently learning **TensorFlow, PyTorch, NLP technqiues**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RayidDastagir](https://github.com/RayidDastagir)
 
-- 📝 I regularly write articles on [Machine Learning](Machine Learning)
+- 📝 I regularly write articles on [Machine Learning]
 
 - 💬 Ask me about **Python,**
 
